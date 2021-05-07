@@ -25,14 +25,13 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/rodrigo-nazareth-626995a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
+<a href="https://codepen.io/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/15861416/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<a href="https://codesandbox.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<!--<a href="https://fb.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>-->
 <a href="https://www.instagram.com/drigo_naz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
 </p>
-
+<!--<a href="https://codesandbox.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
+<a href="https://fb.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>-->
 
 <!--
 **rodrigo-nazareth/rodrigo-nazareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
