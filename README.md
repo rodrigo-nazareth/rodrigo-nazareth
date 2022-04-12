@@ -50,16 +50,16 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rodrigo-nazareth-626995a3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/drigo_naz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"eight="20" width="20" alt="instagram"/>
 </a>
 <a href="https://stackoverflow.com/users/15861416/rodrigo-nazareth" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="20" width="20" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" alt="stackoverflow"/>
 </a>
 <a href="https://codepen.io/rodrigo-nazareth" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="20" width="20" alt="codepen"/>
 </a>  
 </p>
 <!-- <a href="https://youtube.com/rodrigo-nazareth" target="_blank">
