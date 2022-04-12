@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Santri Sistemas](https://santri.com.br/)
 
-<!--- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+<!--- 👨‍💻 All of my projects are available at [meuportfolio.com.br](https://meuportfolio.com.br)
 
-- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I regulary post videos on [youtube.com/rodrigo-nazareth](https://youtube.com/rodrigo-nazareth)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**-->
 
