@@ -14,24 +14,62 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Delphi](https://img.shields.io/badge/-delphi-05122A?style=flat&logo=delphi)&nbsp;
+![PLSql](https://img.shields.io/badge/-PLSql-05122A?style=flat&logo=oracle)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
+<!-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigo-nazareth&show_icons=true" alt="rodrigo-nazareth"/> 
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-nazareth&show_icons=true&theme=vision-friendly-dark" alt="rodrigo-nazareth's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-nazareth&layout=compact&theme=vision-friendly-dark" alt="rodrigo-nazareth's most languages"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rodrigo-nazareth-626995a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<a href="https://codepen.io/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/15861416/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<a href="https://www.instagram.com/drigo_naz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
+<br><br>
+
+
+
+## 👨🏽‍💻&nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/rodrigo-nazareth-626995a3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/drigo_naz" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://stackoverflow.com/users/15861416/rodrigo-nazareth" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="20" width="20" />
+</a>
+<a href="https://codepen.io/rodrigo-nazareth" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>  
 </p>
-<!--<a href="https://codesandbox.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>
-<a href="https://fb.com/rodrigo-nazareth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rodrigo-nazareth" height="20" width="20" /></a>-->
+<!-- <a href="https://youtube.com/rodrigo-nazareth" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a> -->
+<!-- <a href="https://twitter.com/rodrigo-nazareth" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a> -->
+<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=rodrigo-nazareth&layout=wide&show_reply=off&show_retweet=off" /> -->
+
 
 <!--
 **rodrigo-nazareth/rodrigo-nazareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
