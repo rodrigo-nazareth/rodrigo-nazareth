@@ -18,7 +18,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Delphi](https://img.shields.io/badge/-delphi-05122A?style=flat&logo=delphi)&nbsp;
+![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
 ![PLSql](https://img.shields.io/badge/-PLSql-05122A?style=flat&logo=oracle)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
